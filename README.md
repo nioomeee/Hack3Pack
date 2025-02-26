@@ -32,8 +32,8 @@ Welcome to **Web3 Hackathon Kit** – your **ultimate boilerplate** for winning 
 ### 1️⃣ Clone the Repo:
 
 ```bash
-git clone YOUR_REPO_URL Web3-Hackathon-Kit
-cd Web3-Hackathon-Kit
+git clone github.com/nioomeee/Hack3Pack
+cd Hack3Pack
 ```
 
 ### 2️⃣ Install Dependencies:
