@@ -75,7 +75,7 @@ npm start
 ## 📁 Folder Structure
 
 ```
-Web3-Hackathon-Kit/
+Hack3Pack/
 │── smart-contracts/   # Solidity contracts (Hardhat + Foundry setup)
 │── frontend/          # React.js dApp UI (ethers.js, Tailwind)
 │── backend/           # Node.js/Flask API (Firebase, MongoDB)
